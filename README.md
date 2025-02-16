@@ -1,5 +1,4 @@
-👨‍💻Olá, Me chamo João Vitor
-
+👨‍💻Olá, Me chamo João Vitor<br>
 📚Sou Estudante de ADS
 
 <a href="https://github.com/joao-dev21/github-readme-stats">
